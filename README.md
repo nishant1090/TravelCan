@@ -38,13 +38,11 @@ ionic capacitor run android
 ## Screenshots
 
 
-<p align="center">
-  <img src="SS/Login.png" width="400" />
-  <img src="SS/Menu.png" width="400" />
-  <img src="SS/Third.png" width="400" />
-<img src="SS/Fourth.png" width="400" />
-<img src="SS/Fifth.png" width="400" />
-</p>
+![Login](SS/Login.png)
+![Menu](SS/Menu.png)
+![Third](SS/Third.png)
+![Fourth](SS/Fourth.png)
+![Fifth](SS/Fifth.png)
 
 
 
