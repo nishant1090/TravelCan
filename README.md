@@ -38,7 +38,14 @@ ionic capacitor run android
 ## Screenshots
 
 
-![Web Screenshot](SS/Login.png)
+<p align="center">
+  <img src="SS/Login.png" width="400" />
+  <img src="SS/Menu.png" width="400" />
+  <img src="SS/Third.png" width="400" />
+<img src="SS/Fourth.png" width="400" />
+<img src="SS/Fifth.png" width="400" />
+</p>
+
 
 
 
