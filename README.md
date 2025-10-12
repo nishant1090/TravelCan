@@ -20,3 +20,17 @@ ionic serve
 
 # Option B (Lab mode)
 ionic serve --lab
+# 1. Build the project
+ionic build
+
+# 2. Add Android platform
+ionic capacitor add android
+
+# 3. Copy web assets to Android
+ionic capacitor copy android
+
+# 4. Build the Android project
+ionic capacitor build android
+
+# 5. Run the app on Android device or emulator
+ionic capacitor run android
