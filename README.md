@@ -34,3 +34,11 @@ ionic capacitor build android
 
 # 5. Run the app on Android device or emulator
 ionic capacitor run android
+
+## Screenshots
+
+
+![Web Screenshot](SS/Login.png)
+
+
+
