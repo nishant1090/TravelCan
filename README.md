@@ -46,6 +46,6 @@ ionic capacitor run android
 <img width="286" height="545" alt="170531898-268602c2-07fe-4f0e-8b61-5057b0650575" src="https://github.com/user-attachments/assets/7be28c3e-4302-46f9-a171-a1b724168827" />
 <img width="297" height="548" alt="170531809-cfd98922-495a-47bc-9cad-07aa2279c709" src="https://github.com/user-attachments/assets/e12248f0-d8ed-4618-977d-249f7f04191d" />
 
-
+![image]("https://github.com/user-attachments/assets/ec4b5351-0e09-4f9b-802d-bb463663e608")
 
 
